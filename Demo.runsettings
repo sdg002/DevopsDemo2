@@ -1,0 +1,7 @@
+<RunSettings>
+
+	<MSTest>
+		<DeploymentEnabled>False</DeploymentEnabled>
+	</MSTest>
+
+</RunSettings>

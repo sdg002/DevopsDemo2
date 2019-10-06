@@ -9,9 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SomeClassLib1", "SomeClassL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2Core", "ConsoleApp2Core\ConsoleApp2Core.csproj", "{9CAD7F24-FBCC-451A-8759-25D0B83ACB80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1Core", "UnitTestProject1Core\UnitTestProject1Core.csproj", "{9BE05204-7F8B-45F4-A502-5E6B212790A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestProject1Core", "UnitTestProject1Core\UnitTestProject1Core.csproj", "{9BE05204-7F8B-45F4-A502-5E6B212790A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1Fwk", "UnitTestProject1Fwk\UnitTestProject1Fwk.csproj", "{63AF403D-2B87-48FB-8B09-4FB4B51B2DFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5C446965-EF44-4148-94BA-3260B3EB60A8}"
+	ProjectSection(SolutionItems) = preProject
+		Demo.runsettings = Demo.runsettings
+		TestSettings1.testsettings = TestSettings1.testsettings
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
