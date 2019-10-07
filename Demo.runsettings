@@ -2,6 +2,7 @@
 
 	<MSTest>
 		<DeploymentEnabled>False</DeploymentEnabled>
+		<DeleteDeploymentDirectoryAfterTestRunIsComplete>False</DeleteDeploymentDirectoryAfterTestRunIsComplete>
 	</MSTest>
 
 </RunSettings>

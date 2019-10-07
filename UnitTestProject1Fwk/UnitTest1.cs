@@ -14,7 +14,7 @@ namespace UnitTestProject1Fwk
             o.DoSomething();
         }
         [TestMethod]
-        [DeploymentItem("Junk.txt")]
+        //[DeploymentItem("Junk.txt")]
         public void MyTestMethodWithDeployment()
         {
             var assem = System.Reflection.Assembly.GetExecutingAssembly();
